@@ -10,9 +10,9 @@ import java.util.Locale;
 public class LocaleTransform {
     public static Locale getLanguage(int language) {
         switch (language) {
-            case LanguageConfig.ENGLISH:
+            case LanguageConfig.CHINESE:
                 // 英语-美国
-                return Locale.ENGLISH;
+                return Locale.CHINA;
             case LanguageConfig.TRADITIONAL_CHINESE:
                 // 繁体中文
                 return Locale.TRADITIONAL_CHINESE;
@@ -37,9 +37,17 @@ public class LocaleTransform {
             case LanguageConfig.PORTUGAL:
                 // 葡萄牙语
                 return new Locale("pt", "PT");
+            case LanguageConfig.TURK:
+                return new Locale("tr");
+            case LanguageConfig.THAI:
+                return new Locale("th");
+            case LanguageConfig.MALAY:
+                return new Locale("ms");
+            case LanguageConfig.BAHASA_INDONESIA:
+                return new Locale("in");
             default:
                 // 简体中文
-                return Locale.CHINESE;
+                return Locale.ENGLISH;
         }
     }
 }

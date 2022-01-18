@@ -52,4 +52,20 @@ public class LanguageConfig {
      * 葡萄牙语
      */
     public static final int PORTUGAL = 9;
+    /**
+     * 土耳其
+     */
+    public static final int TURK = 11;
+    /**
+     * 泰语
+     */
+    public static final int THAI = 12;
+    /**
+     * 马来语
+     */
+    public static final int MALAY = 13;
+    /**
+     * 印尼语
+     */
+    public static final int BAHASA_INDONESIA = 14;
 }
