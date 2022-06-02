@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picture_camera_roll">Film Rulosu</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">İptal etmek</string>
     <string name="picture_take_picture">film çekmek</string>
     <string name="picture_rule">Görüntüleri veya videoları aynı anda seçemezsiniz</string>
@@ -20,7 +19,6 @@
     <string name="picture_empty">Fotoğraf veya video çekmek için kameranızı kullanabilirsiniz</string>
     <string name="picture_audio_empty">Ses kaydetmek için sistem kaydını kullanabilirsiniz</string>
     <string name="picture_min_img_num">Minimum resim seçimi %1$s\'den az olamaz</string>
-    <string name="picture_gif_tag">GIF</string>
     <string name="picture_jurisdiction">Hafıza kartı okuma izni reddedildi</string>
     <string name="picture_camera">Sistem kamerası iznine erişim reddedildi</string>
     <string name="picture_audio">Sistem kayıt iznine erişim reddedildi</string>
@@ -43,7 +41,6 @@
     <string name="picture_video_error">Video bozuk</string>
     <string name="picture_audio_error">Ses bozuk</string>
     <string name="picture_confirm">Elbette</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">Kırpma verisi yok</string>
     <string name="picture_original_image">gerçek görüntü</string>
     <string name="picture_send">Sona ermek</string>
@@ -67,5 +64,4 @@
     <string name="ucrop_label_original">orijinal ölçek</string>
     <string name="ucrop_label_edit_photo">mahsul</string>
     <string name="ucrop_menu_crop">mahsul</string>
-    <string name="ucrop_gif_tag">GIF</string>
 </resources>

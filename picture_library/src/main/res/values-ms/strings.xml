@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picture_camera_roll">Gulungan Kamera</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Batal</string>
     <string name="picture_take_picture">tembak</string>
     <string name="picture_rule">Anda tidak boleh memilih imej atau video pada masa yang sama</string>
@@ -20,7 +19,6 @@
     <string name="picture_empty">Anda boleh menggunakan kamera anda untuk mengambil foto atau video</string>
     <string name="picture_audio_empty">Anda boleh menggunakan rakaman sistem untuk merakam audio</string>
     <string name="picture_min_img_num">Pemilihan minimum imej tidak boleh kurang daripada %1$s</string>
-    <string name="picture_gif_tag">GIF</string>
     <string name="picture_jurisdiction">Baca kebenaran kad memori ditolak</string>
     <string name="picture_camera">Akses kepada kebenaran kamera sistem ditolak</string>
     <string name="picture_audio">Akses kepada kebenaran rakaman sistem ditolak</string>
@@ -43,7 +41,6 @@
     <string name="picture_video_error">Video rosak</string>
     <string name="picture_audio_error">Audio rosak</string>
     <string name="picture_confirm">pasti</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">Tiada data pemangkasan tersedia</string>
     <string name="picture_original_image">imej asal</string>
     <string name="picture_send">Selesai</string>
@@ -67,5 +64,4 @@
     <string name="ucrop_label_original">skala asal</string>
     <string name="ucrop_label_edit_photo">potong</string>
     <string name="ucrop_menu_crop">potong</string>
-    <string name="ucrop_gif_tag">GIF</string>
 </resources>

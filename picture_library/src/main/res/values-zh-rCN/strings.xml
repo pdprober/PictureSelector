@@ -1,6 +1,5 @@
 <resources>
     <string name="picture_camera_roll">相机胶卷</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">取消</string>
     <string name="picture_take_picture">拍摄</string>
     <string name="picture_rule">不能同时选择图片或视频</string>
@@ -19,7 +18,6 @@
     <string name="picture_empty">你可以使用相机拍摄照片或视频</string>
     <string name="picture_audio_empty">你可以使用系统录音录制音频</string>
     <string name="picture_min_img_num">图片最低选择不能少于%1$s张</string>
-    <string name="picture_gif_tag">动图</string>
     <string name="picture_jurisdiction">读取内存卡权限被拒绝</string>
     <string name="picture_camera">获取系统相机权限被拒绝</string>
     <string name="picture_audio">获取系统录音权限被拒绝</string>
@@ -42,7 +40,6 @@
     <string name="picture_video_error">视频已损坏</string>
     <string name="picture_audio_error">音频已损坏</string>
     <string name="picture_confirm">确定</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">无可用裁剪数据</string>
     <string name="picture_original_image">原图</string>
     <string name="picture_send">完成</string>
@@ -66,5 +63,4 @@
     <string name="ucrop_label_original">原始比例</string>
     <string name="ucrop_label_edit_photo">裁剪</string>
     <string name="ucrop_menu_crop">裁剪</string>
-    <string name="ucrop_gif_tag">动图</string>
 </resources>

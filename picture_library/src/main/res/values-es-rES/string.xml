@@ -6,7 +6,6 @@
     <string name="picture_audio_error">Audio corrupto</string>
     <string name="picture_camera">Permiso de acceso a la cámara denegado</string>
     <string name="picture_camera_roll">Galería</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Cancelar</string>
     <string name="picture_choose_limit_seconds">Únicamente pueden seleccionarse videos entre %1$ds y %2$ds</string>
     <string name="picture_choose_max_seconds">Puedes seleccionar videos de no más de %1$ds</string>
@@ -21,7 +20,6 @@
     <string name="picture_empty_audio_title">No hay audios\n</string>
     <string name="picture_empty_title">No hay fotos o videos\n</string>
     <string name="picture_error">Foto corrupta</string>
-    <string name="picture_gif_tag">gif</string>
     <string name="picture_go_setting">Configuración</string>
     <string name="picture_jurisdiction">Acceso a la tarjeta de memoria denegado</string>
     <string name="picture_know">Entendido</string>
@@ -42,7 +40,6 @@
     <string name="picture_please">Espera un momento…</string>
     <string name="picture_please_select">Seleccionar</string>
     <string name="picture_preview">Vista previa</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_preview_num">Vista previa(%1$d)</string>
     <string name="picture_prompt">Aviso</string>
     <string name="picture_prompt_content">¿Guardar las imágenes en tu teléfono?</string>
@@ -62,7 +59,6 @@
     <string name="picture_video_toast">No hay vista previa del video</string>
     <string name="picture_warning">No hay ningún archivo</string>
 
-    <string name="ucrop_gif_tag" tools:override="true">gif</string>
     <string name="ucrop_label_edit_photo" tools:override="true">Editar foto</string>
     <string name="ucrop_label_original" tools:override="true">Original</string>
     <string name="ucrop_menu_crop" tools:override="true">Recortar</string>

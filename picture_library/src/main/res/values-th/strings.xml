@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picture_camera_roll">ม้วนฟิล์ม</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">ยกเลิก</string>
     <string name="picture_take_picture">ยิง</string>
     <string name="picture_rule">คุณไม่สามารถเลือกภาพหรือวิดีโอพร้อมกันได้</string>
@@ -20,7 +19,6 @@
     <string name="picture_empty">คุณสามารถใช้กล้องเพื่อถ่ายภาพหรือวิดีโอ</string>
     <string name="picture_audio_empty">คุณสามารถใช้การบันทึกระบบเพื่อบันทึกเสียง</string>
     <string name="picture_min_img_num">การเลือกรูปภาพขั้นต่ำต้องไม่ต่ำกว่า %1$s</string>
-    <string name="picture_gif_tag">GIF</string>
     <string name="picture_jurisdiction">ปฏิเสธการอนุญาตอ่านการ์ดหน่วยความจำ</string>
     <string name="picture_camera">การเข้าถึงการอนุญาตกล้องระบบถูกปฏิเสธ</string>
     <string name="picture_audio">การเข้าถึงการอนุญาตการบันทึกระบบถูกปฏิเสธ</string>
@@ -43,7 +41,6 @@
     <string name="picture_video_error">วิดีโอเสียหาย</string>
     <string name="picture_audio_error">เสียงเสียหาย</string>
     <string name="picture_confirm">แน่นอน</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">ไม่มีข้อมูลการครอบตัด</string>
     <string name="picture_original_image">ภาพต้นฉบับ</string>
     <string name="picture_send">เสร็จ</string>
@@ -67,5 +64,4 @@
     <string name="ucrop_label_original">ขนาดเดิม</string>
     <string name="ucrop_label_edit_photo">พืชผล</string>
     <string name="ucrop_menu_crop">พืชผล</string>
-    <string name="ucrop_gif_tag">GIF</string>
 </resources>

@@ -1,6 +1,5 @@
 <resources>
     <string name="picture_camera_roll">카메라 필름</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">취소</string>
     <string name="picture_take_picture">촬영</string>
     <string name="picture_rule">사진이나 비디오를 동시에 선택할 수 없습니다.</string>
@@ -19,7 +18,6 @@
     <string name="picture_empty">사진을 찍거나 동영상을 찍을 수 있습니다</string>
     <string name="picture_audio_empty">시스템으로 오디오 녹음 작업을 할 수 있습니다</string>
     <string name="picture_min_img_num">그림 선택 최소 %1$s 달러 장 이상</string>
-    <string name="picture_gif_tag">gif</string>
     <string name="picture_jurisdiction">메모리 카드 읽기 권한이 거부됨</string>
     <string name="picture_camera">시스템 카메라 가져오기 권한이 거부됨</string>
     <string name="picture_audio">시스템 녹음 권한 가져오기 거부됨</string>
@@ -42,7 +40,6 @@
     <string name="picture_video_error">비디오가 손상되었습니다</string>
     <string name="picture_audio_error">오디오가 손상됨</string>
     <string name="picture_confirm">확정</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">자른 데이터가 없습니다</string>
     <string name="picture_original_image">원본 이미지</string>
     <string name="picture_send">완성</string>
@@ -64,5 +61,4 @@
     <string name="ucrop_label_edit_photo">사진 편집</string>
     <string name="ucrop_label_original">원본</string>
     <string name="ucrop_menu_crop">확인</string>
-    <string name="ucrop_gif_tag">움직이</string>
 </resources>

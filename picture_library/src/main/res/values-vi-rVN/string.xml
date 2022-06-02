@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="picture_camera_roll">Camera cuộn</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Hủy bỏ</string>
     <string name="picture_take_picture">Bắn</string>
     <string name="picture_rule">Không thể chọn hình ảnh hoặc video cùng một lúc</string>
@@ -20,7 +19,6 @@
     <string name="picture_empty">Bạn có thể sử dụng máy ảnh để chụp ảnh hoặc quay video</string>
     <string name="picture_audio_empty">Bạn có thể ghi lại âm thanh bằng cách ghi hệ thống</string>
     <string name="picture_min_img_num">Lựa chọn tối thiểu của hình ảnh không được ít hơn%1$s</string>
-    <string name="picture_gif_tag">gif</string>
     <string name="picture_jurisdiction">Đọc thẻ nhớ bị từ chối</string>
     <string name="picture_camera">Nhận được sự cho phép của hệ thống camera</string>
     <string name="picture_audio">Nhận quyền ghi lại hệ thống bị từ chối</string>
@@ -43,7 +41,6 @@
     <string name="picture_video_error">Video bị hỏng</string>
     <string name="picture_audio_error">Âm thanh bị hỏng</string>
     <string name="picture_confirm">Được rồi</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">Không có dữ liệu cây trồng</string>
     <string name="picture_original_image">Ảnh gốc</string>
     <string name="picture_send">Hoàn</string>
@@ -62,7 +59,6 @@
     <string name="picture_know">Được rồi</string>
     <string name="picture_data_null">không có dữ liệu…</string>
 
-    <string name="ucrop_gif_tag" tools:override="true">gif</string>
     <string name="ucrop_label_edit_photo" tools:override="true">Editar foto</string>
     <string name="ucrop_label_original" tools:override="true">Original</string>
     <string name="ucrop_menu_crop" tools:override="true">Recortar</string>

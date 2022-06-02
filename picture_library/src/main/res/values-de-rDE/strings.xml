@@ -1,6 +1,5 @@
 <resources>
     <string name="picture_camera_roll">Kamerafilm</string>
-    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Abbrechen</string>
     <string name="picture_take_picture">Schießen</string>
     <string name="picture_rule">Es kann nicht gleichzeitig ein Bild oder Video ausgewählt werden</string>
@@ -19,7 +18,6 @@
     <string name="picture_empty">Sie können mit Ihrer Kamera ein Foto oder Video aufnehmen</string>
     <string name="picture_audio_empty">Sie können Audio mit der Systemaufzeichnung aufnehmen</string>
     <string name="picture_min_img_num">Die Mindestauswahl an Bildern darf %1$s nicht unterschreiten</string>
-    <string name="picture_gif_tag">gif</string>
     <string name="picture_jurisdiction">Leseberechtigungen für Speicherkarten verweigert</string>
     <string name="picture_camera">Systemkameraberechtigung verweigert</string>
     <string name="picture_audio">Holen Sie sich die Systemaufzeichnungsberechtigung verweigert</string>
@@ -42,7 +40,6 @@
     <string name="picture_video_error">Das Video ist beschädigt</string>
     <string name="picture_audio_error">Audio ist fehlerhaft</string>
     <string name="picture_confirm">Gut</string>
-    <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="picture_not_crop_data">Keine Erntedaten verfügbar</string>
     <string name="picture_original_image">Original</string>
     <string name="picture_send">Vollständig</string>
@@ -65,5 +62,4 @@
     <string name="ucrop_label_edit_photo">Foto editieren</string>
     <string name="ucrop_label_original">Original</string>
     <string name="ucrop_menu_crop">Zuschneiden</string>
-    <string name="ucrop_gif_tag">Bewegen</string>
 </resources>
