@@ -41,7 +41,7 @@
     <string name="picture_please">لطفا بعدا…</string>
     <string name="picture_please_select">لطفا انتخاب کنید</string>
     <string name="picture_preview">پیش نمایش</string>
-    <string name="picture_preview_num">پیش نمایش (%$1d)</string>
+    <string name="picture_preview_num">پیش نمایش (%d)</string>
     <string name="picture_prompt">سریع</string>
     <string name="picture_prompt_content">آیا می خواهید تصاویر را در گوشی خود ذخیره کنید؟</string>
     <string name="picture_quit_audio">ترک</string>
