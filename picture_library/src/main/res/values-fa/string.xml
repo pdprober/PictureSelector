@@ -20,7 +20,6 @@
     <string name="picture_empty_audio_title">فایل صوتی وجود ندارد\n</string>
     <string name="picture_empty_title">بدون ویدیو یا عکس\n</string>
     <string name="picture_error">عکس خراب است</string>
-    <string name="picture_gif_tag">gif</string>
     <string name="picture_go_setting">برو تنظیمات</string>
     <string name="picture_jurisdiction">دسترسی به کارت حافظه خواندن ممنوع شد</string>
     <string name="picture_know">من می دانم</string>
